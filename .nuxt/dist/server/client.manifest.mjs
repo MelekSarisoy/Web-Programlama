@@ -1,0 +1,1 @@
+export { default } from "file:///home/melek/Belgeler/instreet-my-feature-branch/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
